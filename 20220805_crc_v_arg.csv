@@ -1,0 +1,836 @@
+﻿N,Event,XY,Period
+1,Inicia CRC,,Primer tiempo
+1,Inicia ARG,,Primer tiempo
+1,Posesión ofensiva CRC,,Primer tiempo
+1,Saque del medio CRC,,Primer tiempo
+1,Pase CRC,101;221 5;306,Primer tiempo
+1,Control sin oposición ARG,196;38,Primer tiempo
+1,Posesión defensiva ARG,,Primer tiempo
+1,Pase ARG,191;33 95;10,Primer tiempo
+2,Pase ARG,83;14 43;269,Primer tiempo
+1,Posesión ofensiva ARG,,Primer tiempo
+1,Posesión defensiva CRC,31;291 93;183 37;325,Primer tiempo
+1,Intercepción CRC,145;113,Primer tiempo
+2,Posesión ofensiva CRC,,Primer tiempo
+2,Pase CRC,97;179 34;314,Primer tiempo
+1,Intercepción ARG,157;76,Primer tiempo
+2,Posesión defensiva ARG,,Primer tiempo
+2,Posesión ofensiva ARG,129;163 34;295 34;297,Primer tiempo
+3,Pase ARG,129;163 34;297,Primer tiempo
+1,Recepción ARG,34;295,Primer tiempo
+1,Sin posesión,51;351 146;37,Primer tiempo
+1,Pérdida no forzada ARG,59;355,Primer tiempo
+3,Posesión ofensiva ARG,51;343 72;328 72;331,Primer tiempo
+4,Pase ARG,5;364 5;384,Primer tiempo
+1,Córner ARG,,Primer tiempo
+2,Recepción ARG,5;385,Primer tiempo
+1,Duelo ARG,20;368,Primer tiempo
+1,Recuperación CRC,74;333,Primer tiempo
+2,Duelo ARG,72;328,Primer tiempo
+2,Control sin oposición ARG,157;171,Primer tiempo
+3,Posesión defensiva ARG,,Primer tiempo
+4,Posesión ofensiva ARG,128;314,Primer tiempo
+3,Duelo ARG,128;314,Primer tiempo
+2,Sin posesión,119;310 115;427,Primer tiempo
+1,Ataque ARG,119;310 115;427,Primer tiempo
+1,Saque de arco CRC,20;269,Primer tiempo
+2,Intercepción ARG,156;123,Primer tiempo
+4,Posesión defensiva ARG,,Primer tiempo
+5,Posesión ofensiva ARG,,Primer tiempo
+2,Ataque ARG,48;336 136;447,Primer tiempo
+3,Sin posesión,48;336,Primer tiempo
+3,Posesión ofensiva CRC,,Primer tiempo
+3,Pase CRC,111;220 194;286,Primer tiempo
+2,Saque del medio CRC,,Primer tiempo
+1,Recepción CRC,194;294,Primer tiempo
+4,Sin posesión,,Primer tiempo
+1,Recuperación ARG,6;209,Primer tiempo
+6,Posesión ofensiva ARG,,Primer tiempo
+3,Control sin oposición ARG,6;177,Primer tiempo
+5,Pase ARG,7;262 196;232,Primer tiempo
+3,Recepción ARG,186;228,Primer tiempo
+4,Duelo ARG,193;299,Primer tiempo
+5,Duelo ARG,158;352,Primer tiempo
+5,Sin posesión,,Primer tiempo
+2,Saque de arco CRC,196;358,Primer tiempo
+1,Saque de arco ARG,192;208,Primer tiempo
+7,Posesión ofensiva ARG,,Primer tiempo
+6,Duelo ARG,194;303,Primer tiempo
+6,Sin posesión,,Primer tiempo
+6,Pase ARG,169;287 7;316,Primer tiempo
+1,Bote a tierra,,Primer tiempo
+3,Saque de arco CRC,5;314,Primer tiempo
+3,Intercepción ARG,193;114,Primer tiempo
+4,Control sin oposición ARG,183;78,Primer tiempo
+5,Posesión defensiva ARG,,Primer tiempo
+7,Sin posesión,,Primer tiempo
+7,Pase ARG,194;82 6;300,Primer tiempo
+5,Control sin oposición ARG,79;136,Primer tiempo
+6,Posesión defensiva ARG,,Primer tiempo
+4,Recepción ARG,164;242,Primer tiempo
+8,Pase ARG,23;100 197;266,Primer tiempo
+8,Sin posesión,,Primer tiempo
+2,Recuperación ARG,189;385,Primer tiempo
+8,Posesión ofensiva ARG,,Primer tiempo
+9,Sin posesión,,Primer tiempo
+7,Duelo ARG,163;363,Primer tiempo
+2,Recuperación CRC,31;27,Primer tiempo
+3,Recuperación ARG,175;316,Primer tiempo
+6,Control sin oposición ARG,173;168,Primer tiempo
+7,Posesión defensiva ARG,,Primer tiempo
+9,Posesión ofensiva ARG,,Primer tiempo
+3,Ataque ARG,66;359 53;442,Primer tiempo
+10,Sin posesión,,Primer tiempo
+7,Control sin oposición ARG,75;264,Primer tiempo
+10,Posesión ofensiva ARG,,Primer tiempo
+2,Posesión defensiva CRC,,Primer tiempo
+8,Duelo ARG,10;327,Primer tiempo
+3,Recuperación CRC,197;76,Primer tiempo
+2,Recepción CRC,7;228,Primer tiempo
+4,Pase CRC,194;92 194;146,Primer tiempo
+1,Duelo CRC,,Primer tiempo
+4,Recuperación ARG,5;210,Primer tiempo
+8,Posesión defensiva ARG,,Primer tiempo
+11,Posesión ofensiva ARG,,Primer tiempo
+9,Pase ARG,78;213 183;396,Primer tiempo
+11,Sin posesión,,Primer tiempo
+4,Saque de arco CRC,196;168,Primer tiempo
+3,Posesión defensiva CRC,,Primer tiempo
+4,Intercepción ARG,146;153,Primer tiempo
+9,Posesión defensiva ARG,,Primer tiempo
+10,Pase ARG,76;146 6;343,Primer tiempo
+5,Recuperación ARG,8;292,Primer tiempo
+12,Posesión ofensiva ARG,,Primer tiempo
+12,Sin posesión,,Primer tiempo
+4,Ataque ARG,69;342,Primer tiempo
+8,Control sin oposición ARG,10;247,Primer tiempo
+13,Posesión ofensiva ARG,,Primer tiempo
+5,Ataque ARG,145;287 134;462,Primer tiempo
+9,Control sin oposición ARG,186;276,Primer tiempo
+9,Duelo ARG,164;279,Primer tiempo
+13,Sin posesión,,Primer tiempo
+6,Ataque ARG,156;351,Primer tiempo
+4,Posesión ofensiva CRC,,Primer tiempo
+3,Saque del medio CRC,,Primer tiempo
+5,Intercepción ARG,181;55,Primer tiempo
+10,Posesión defensiva ARG,,Primer tiempo
+5,Pase CRC,99;211 10;300,Primer tiempo
+14,Sin posesión,,Primer tiempo
+11,Pase ARG,196;37 102;7,Primer tiempo
+12,Pase ARG,111;7 156;307,Primer tiempo
+14,Posesión ofensiva ARG,,Primer tiempo
+5,Recepción ARG,149;303,Primer tiempo
+10,Duelo ARG,145;309,Primer tiempo
+15,Sin posesión,,Primer tiempo
+7,Ataque ARG,109;351 100;443,Primer tiempo
+1,Control sin oposición CRC,177;34,Primer tiempo
+4,Posesión defensiva CRC,,Primer tiempo
+2,Duelo CRC,,Primer tiempo
+6,Recuperación ARG,78;287,Primer tiempo
+15,Posesión ofensiva ARG,,Primer tiempo
+16,Sin posesión,,Primer tiempo
+8,Ataque ARG,57;320,Primer tiempo
+2,Control sin oposición CRC,5;25,Primer tiempo
+5,Posesión defensiva CRC,,Primer tiempo
+4,Primer tiempo,,Primer tiempo
+5,Primer tiempo,,Primer tiempo
+6,Primer tiempo,,Primer tiempo
+7,Primer tiempo,,Primer tiempo
+8,Primer tiempo,,Primer tiempo
+9,Primer tiempo,,Primer tiempo
+17,Sin posesión,,Primer tiempo
+1,Falta CRC,4;21,Primer tiempo
+1,Entra ARG,,Primer tiempo
+1,Sale ARG,,Primer tiempo
+1,Tiro libre ARG,196;352,Primer tiempo
+16,Posesión ofensiva ARG,,Primer tiempo
+18,Sin posesión,,Primer tiempo
+9,Ataque ARG,168;322 5;459,Primer tiempo
+5,Saque de arco CRC,22;348,Primer tiempo
+6,Intercepción ARG,162;170,Primer tiempo
+2,Saque de arco ARG,110;303,Primer tiempo
+2,Intercepción CRC,101;106,Primer tiempo
+17,Posesión ofensiva ARG,,Primer tiempo
+19,Sin posesión,,Primer tiempo
+11,Duelo ARG,103;317,Primer tiempo
+4,Recuperación CRC,78;78,Primer tiempo
+7,Recuperación ARG,183;260,Primer tiempo
+18,Posesión ofensiva ARG,,Primer tiempo
+10,Ataque ARG,114;335 99;427,Primer tiempo
+12,Duelo ARG,194;279,Primer tiempo
+20,Sin posesión,,Primer tiempo
+10,Control sin oposición ARG,7;314,Primer tiempo
+19,Posesión ofensiva ARG,,Primer tiempo
+13,Duelo ARG,6;317,Primer tiempo
+13,Pase ARG,5;346 5;319,Primer tiempo
+6,Recepción ARG,5;310,Primer tiempo
+14,Duelo ARG,6;287,Primer tiempo
+21,Sin posesión,,Primer tiempo
+5,Recuperación CRC,182;119,Primer tiempo
+1,Despeje CRC,177;112,Primer tiempo
+11,Control sin oposición ARG,196;108,Primer tiempo
+11,Posesión defensiva ARG,,Primer tiempo
+15,Duelo ARG,197;123,Primer tiempo
+22,Sin posesión,,Primer tiempo
+16,Duelo ARG,150;338,Primer tiempo
+6,Recuperación CRC,54;59,Primer tiempo
+1,Sale CRC,,Primer tiempo
+1,Entra CRC,,Primer tiempo
+2,Sale CRC,,Primer tiempo
+2,Entra CRC,,Primer tiempo
+6,Saque de arco CRC,6;263,Primer tiempo
+5,Posesión ofensiva CRC,,Primer tiempo
+3,Duelo CRC,20;201,Primer tiempo
+6,Pase CRC,112;273 197;272,Primer tiempo
+3,Recepción CRC,194;245,Primer tiempo
+23,Sin posesión,,Primer tiempo
+4,Duelo CRC,194;214,Primer tiempo
+8,Recuperación ARG,6;185,Primer tiempo
+12,Control sin oposición ARG,7;269,Primer tiempo
+20,Posesión ofensiva ARG,,Primer tiempo
+24,Sin posesión,,Primer tiempo
+17,Duelo ARG,102;280,Primer tiempo
+11,Ataque ARG,126;307 170;462,Primer tiempo
+7,Saque de arco CRC,194;344,Primer tiempo
+3,Saque de arco ARG,193;191,Primer tiempo
+12,Posesión defensiva ARG,,Primer tiempo
+21,Posesión ofensiva ARG,,Primer tiempo
+14,Pase ARG,181;205 4;352,Primer tiempo
+25,Sin posesión,,Primer tiempo
+8,Saque de arco CRC,118;311,Primer tiempo
+4,Saque de arco ARG,193;223,Primer tiempo
+22,Posesión ofensiva ARG,,Primer tiempo
+18,Duelo ARG,193;244,Primer tiempo
+15,Pase ARG,194;242 5;242,Primer tiempo
+13,Posesión defensiva ARG,,Primer tiempo
+7,Recepción ARG,28;227,Primer tiempo
+16,Pase ARG,16;174 196;226,Primer tiempo
+23,Posesión ofensiva ARG,,Primer tiempo
+8,Recepción ARG,193;234,Primer tiempo
+19,Duelo ARG,134;328,Primer tiempo
+7,Recuperación CRC,49;56,Primer tiempo
+26,Sin posesión,,Primer tiempo
+9,Saque de arco CRC,24;222,Primer tiempo
+5,Saque de arco ARG,95;262,Primer tiempo
+3,Intercepción CRC,102;137,Primer tiempo
+9,Recuperación ARG,6;286,Primer tiempo
+24,Posesión ofensiva ARG,,Primer tiempo
+17,Pase ARG,7;288 7;233,Primer tiempo
+9,Recepción ARG,8;230,Primer tiempo
+20,Duelo ARG,6;234,Primer tiempo
+27,Sin posesión,,Primer tiempo
+12,Ataque ARG,62;331 92;428,Primer tiempo
+7,Pase CRC,86;30 95;10,Primer tiempo
+4,Recepción CRC,158;210,Primer tiempo
+6,Posesión ofensiva CRC,,Primer tiempo
+8,Pase CRC,99;13 150;225,Primer tiempo
+14,Posesión defensiva ARG,,Primer tiempo
+5,Duelo CRC,183;378,Primer tiempo
+10,Recuperación ARG,37;13,Primer tiempo
+18,Pase ARG,37;10 111;293,Primer tiempo
+6,Posesión defensiva CRC,,Primer tiempo
+4,Intercepción CRC,101;138,Primer tiempo
+7,Posesión ofensiva CRC,,Primer tiempo
+15,Posesión defensiva ARG,,Primer tiempo
+6,Duelo CRC,193;280,Primer tiempo
+11,Recuperación ARG,6;82,Primer tiempo
+28,Sin posesión,,Primer tiempo
+19,Pase ARG,6;25 57;0,Primer tiempo
+8,Posesión ofensiva CRC,,Primer tiempo
+1,Córner CRC,,Primer tiempo
+29,Sin posesión,,Primer tiempo
+7,Intercepción ARG,50;21,Primer tiempo
+1,Despeje ARG,77;31,Primer tiempo
+9,Pase CRC,194;396 68;321,Primer tiempo
+8,Recuperación CRC,135;215,Primer tiempo
+12,Recuperación ARG,193;221,Primer tiempo
+25,Posesión ofensiva ARG,,Primer tiempo
+20,Pase ARG,24;265 5;348,Primer tiempo
+30,Sin posesión,,Primer tiempo
+10,Saque de arco CRC,5;208,Primer tiempo
+7,Posesión defensiva CRC,,Primer tiempo
+16,Posesión defensiva ARG,,Primer tiempo
+8,Intercepción ARG,9;140,Primer tiempo
+10,Pase CRC,61;169 194;224,Primer tiempo
+26,Posesión ofensiva ARG,,Primer tiempo
+31,Sin posesión,,Primer tiempo
+13,Ataque ARG,62;352,Primer tiempo
+11,Saque de arco CRC,56;297,Primer tiempo
+9,Posesión ofensiva CRC,,Primer tiempo
+7,Duelo CRC,5;351,Primer tiempo
+17,Posesión defensiva ARG,,Primer tiempo
+13,Recuperación ARG,194;48,Primer tiempo
+21,Pase ARG,163;27 121;27,Primer tiempo
+10,Recepción ARG,116;33,Primer tiempo
+22,Pase ARG,97;30 97;11,Primer tiempo
+23,Pase ARG,123;13 194;311,Primer tiempo
+27,Posesión ofensiva ARG,,Primer tiempo
+11,Recepción ARG,193;308,Primer tiempo
+24,Pase ARG,164;317 78;334,Primer tiempo
+12,Recepción ARG,17;295,Primer tiempo
+5,Intercepción CRC,99;64,Primer tiempo
+21,Duelo ARG,6;254,Primer tiempo
+22,Duelo ARG,99;294,Primer tiempo
+32,Sin posesión,,Primer tiempo
+14,Ataque ARG,121;325 124;465,Primer tiempo
+4,Saque del medio CRC,,Primer tiempo
+10,Posesión ofensiva CRC,,Primer tiempo
+11,Pase CRC,180;208 196;370,Primer tiempo
+5,Recepción CRC,194;379,Primer tiempo
+12,Pase CRC,194;373 194;228,Primer tiempo
+33,Sin posesión,,Primer tiempo
+6,Recepción CRC,194;242,Primer tiempo
+13,Control sin oposición ARG,5;266,Primer tiempo
+28,Posesión ofensiva ARG,,Primer tiempo
+25,Pase ARG,13;221 194;225,Primer tiempo
+13,Recepción ARG,184;208,Primer tiempo
+18,Posesión defensiva ARG,,Primer tiempo
+26,Pase ARG,175;191 38;332,Primer tiempo
+14,Recepción ARG,31;332,Primer tiempo
+34,Sin posesión,,Primer tiempo
+23,Duelo ARG,6;320,Primer tiempo
+15,Ataque ARG,56;397 41;427,Primer tiempo
+12,Saque de arco CRC,4;259,Primer tiempo
+9,Intercepción ARG,194;108,Primer tiempo
+19,Posesión defensiva ARG,,Primer tiempo
+27,Pase ARG,196;40 123;8,Primer tiempo
+28,Pase ARG,121;16 61;273,Primer tiempo
+29,Posesión ofensiva ARG,,Primer tiempo
+35,Sin posesión,,Primer tiempo
+6,Intercepción CRC,136;119,Primer tiempo
+8,Posesión defensiva CRC,,Primer tiempo
+13,Pase CRC,177;134 8;184,Primer tiempo
+10,Intercepción ARG,191;171,Primer tiempo
+20,Posesión defensiva ARG,,Primer tiempo
+24,Duelo ARG,178;264,Primer tiempo
+36,Sin posesión,,Primer tiempo
+16,Ataque ARG,150;327,Primer tiempo
+2,Córner ARG,,Primer tiempo
+30,Posesión ofensiva ARG,,Primer tiempo
+29,Pase ARG,186;374 78;369,Primer tiempo
+7,Intercepción CRC,27;30,Primer tiempo
+37,Sin posesión,,Primer tiempo
+3,Córner ARG,,Primer tiempo
+31,Posesión ofensiva ARG,,Primer tiempo
+30,Pase ARG,177;344 5;344,Primer tiempo
+15,Recepción ARG,4;343,Primer tiempo
+25,Duelo ARG,6;316,Primer tiempo
+9,Recuperación CRC,192;97,Primer tiempo
+9,Posesión defensiva CRC,,Primer tiempo
+2,Despeje CRC,170;116,Primer tiempo
+38,Sin posesión,,Primer tiempo
+14,Control sin oposición ARG,132;98,Primer tiempo
+21,Posesión defensiva ARG,,Primer tiempo
+31,Pase ARG,165;78 197;139,Primer tiempo
+16,Recepción ARG,171;210,Primer tiempo
+26,Duelo ARG,134;337,Primer tiempo
+39,Sin posesión,,Primer tiempo
+27,Duelo ARG,95;368,Primer tiempo
+17,Ataque ARG,100;365 159;426,Primer tiempo
+4,Córner ARG,,Primer tiempo
+32,Posesión ofensiva ARG,,Primer tiempo
+3,Despeje CRC,92;71,Primer tiempo
+40,Sin posesión,,Primer tiempo
+28,Duelo ARG,122;330,Primer tiempo
+10,Recuperación CRC,62;65,Primer tiempo
+3,Control sin oposición CRC,24;211,Primer tiempo
+11,Posesión ofensiva CRC,,Primer tiempo
+22,Posesión defensiva ARG,,Primer tiempo
+8,Duelo CRC,37;288,Primer tiempo
+14,Recuperación ARG,167;119,Primer tiempo
+32,Pase ARG,142;30 84;8,Primer tiempo
+33,Pase ARG,76;16 5;266,Primer tiempo
+10,Posesión defensiva CRC,,Primer tiempo
+8,Intercepción CRC,194;163,Primer tiempo
+12,Posesión ofensiva CRC,,Primer tiempo
+14,Pase CRC,194;225 101;338,Primer tiempo
+7,Recepción CRC,40;351,Primer tiempo
+15,Pase CRC,4;283 4;232,Primer tiempo
+8,Recepción CRC,5;232,Primer tiempo
+9,Duelo CRC,7;146,Primer tiempo
+15,Recuperación ARG,193;232,Primer tiempo
+33,Posesión ofensiva ARG,,Primer tiempo
+11,Posesión defensiva CRC,,Primer tiempo
+29,Duelo ARG,41;298,Primer tiempo
+11,Recuperación CRC,159;98,Primer tiempo
+34,Posesión ofensiva ARG,,Primer tiempo
+16,Recuperación ARG,105;317,Primer tiempo
+10,Duelo CRC,99;71,Primer tiempo
+41,Sin posesión,,Primer tiempo
+18,Ataque ARG,99;333,Primer tiempo
+5,Córner ARG,,Primer tiempo
+35,Posesión ofensiva ARG,,Primer tiempo
+42,Sin posesión,,Primer tiempo
+19,Ataque ARG,21;332,Primer tiempo
+1,Lateral ARG,5;359,Primer tiempo
+36,Posesión ofensiva ARG,,Primer tiempo
+34,Pase ARG,5;321 135;317,Primer tiempo
+17,Recepción ARG,149;309,Primer tiempo
+30,Duelo ARG,98;291,Primer tiempo
+43,Sin posesión,,Primer tiempo
+20,Ataque ARG,95;295 134;474,Primer tiempo
+6,Córner ARG,,Primer tiempo
+37,Posesión ofensiva ARG,,Primer tiempo
+35,Pase ARG,192;390 72;307,Primer tiempo
+18,Recepción ARG,104;303,Primer tiempo
+21,Ataque ARG,78;363,Primer tiempo
+44,Sin posesión,,Primer tiempo
+31,Duelo ARG,71;355,Primer tiempo
+12,Recuperación CRC,128;51,Primer tiempo
+4,Despeje CRC,191;125,Primer tiempo
+6,Saque de arco ARG,6;101,Primer tiempo
+23,Posesión defensiva ARG,,Primer tiempo
+36,Pase ARG,15;96 197;226,Primer tiempo
+19,Recepción ARG,193;230,Primer tiempo
+12,Posesión defensiva CRC,,Primer tiempo
+32,Duelo ARG,194;272,Primer tiempo
+13,Recuperación CRC,6;136,Primer tiempo
+11,Duelo CRC,7;143,Primer tiempo
+17,Recuperación ARG,193;262,Primer tiempo
+38,Posesión ofensiva ARG,,Primer tiempo
+24,Posesión defensiva ARG,,Primer tiempo
+37,Pase ARG,21;193 5;330,Primer tiempo
+20,Recepción ARG,5;325,Primer tiempo
+33,Duelo ARG,6;302,Primer tiempo
+45,Sin posesión,,Primer tiempo
+22,Ataque ARG,64;320,Primer tiempo
+4,Control sin oposición CRC,18;7,Primer tiempo
+13,Posesión defensiva CRC,,Primer tiempo
+16,Pase CRC,18;13 6;235,Primer tiempo
+46,Sin posesión,,Primer tiempo
+13,Posesión ofensiva CRC,,Primer tiempo
+9,Recepción CRC,4;231,Primer tiempo
+14,Posesión defensiva CRC,,Primer tiempo
+39,Posesión ofensiva ARG,,Primer tiempo
+12,Duelo CRC,197;136,Primer tiempo
+18,Recuperación ARG,6;251,Primer tiempo
+47,Sin posesión,,Primer tiempo
+48,Sin posesión,,Primer tiempo
+34,Duelo ARG,138;334,Primer tiempo
+14,Recuperación CRC,74;68,Primer tiempo
+7,Córner ARG,,Primer tiempo
+40,Posesión ofensiva ARG,,Primer tiempo
+2,Inicia ARG,,Segundo tiempo
+2,Inicia CRC,,Segundo tiempo
+1,Saque del medio ARG,,Segundo tiempo
+41,Posesión ofensiva ARG,,Segundo tiempo
+25,Posesión defensiva ARG,,Segundo tiempo
+49,Sin posesión,,Segundo tiempo
+38,Pase ARG,165;195 178;341,Segundo tiempo
+9,Intercepción CRC,32;194,Segundo tiempo
+15,Posesión defensiva CRC,,Segundo tiempo
+17,Pase CRC,6;164 8;115,Segundo tiempo
+10,Recepción CRC,6;116,Segundo tiempo
+50,Sin posesión,,Segundo tiempo
+13,Duelo CRC,61;170,Segundo tiempo
+19,Recuperación ARG,5;239,Segundo tiempo
+42,Posesión ofensiva ARG,,Segundo tiempo
+39,Pase ARG,4;236 5;188,Segundo tiempo
+21,Recepción ARG,5;190,Segundo tiempo
+26,Posesión defensiva ARG,,Segundo tiempo
+40,Pase ARG,8;185 197;217,Segundo tiempo
+43,Posesión ofensiva ARG,,Segundo tiempo
+51,Sin posesión,,Segundo tiempo
+10,Intercepción CRC,15;181,Segundo tiempo
+16,Posesión defensiva CRC,,Segundo tiempo
+14,Posesión ofensiva CRC,,Segundo tiempo
+27,Posesión defensiva ARG,,Segundo tiempo
+14,Duelo CRC,118;215,Segundo tiempo
+20,Recuperación ARG,70;192,Segundo tiempo
+44,Posesión ofensiva ARG,,Segundo tiempo
+41,Pase ARG,145;217 4;297,Segundo tiempo
+22,Recepción ARG,8;295,Segundo tiempo
+42,Pase ARG,29;255 155;260,Segundo tiempo
+23,Recepción ARG,146;252,Segundo tiempo
+43,Pase ARG,102;262 42;288,Segundo tiempo
+24,Recepción ARG,23;295,Segundo tiempo
+44,Pase ARG,5;351 8;270,Segundo tiempo
+25,Recepción ARG,8;265,Segundo tiempo
+45,Pase ARG,39;242 5;321,Segundo tiempo
+17,Posesión defensiva CRC,,Segundo tiempo
+11,Intercepción CRC,194;91,Segundo tiempo
+52,Sin posesión,,Segundo tiempo
+15,Duelo CRC,150;72,Segundo tiempo
+21,Recuperación ARG,81;294,Segundo tiempo
+8,Córner ARG,,Segundo tiempo
+45,Posesión ofensiva ARG,,Segundo tiempo
+46,Pase ARG,196;358 193;386,Segundo tiempo
+26,Recepción ARG,193;381,Segundo tiempo
+35,Duelo ARG,170;385,Segundo tiempo
+36,Duelo ARG,158;346,Segundo tiempo
+15,Recuperación CRC,61;59,Segundo tiempo
+53,Sin posesión,,Segundo tiempo
+22,Recuperación ARG,193;114,Segundo tiempo
+28,Posesión defensiva ARG,,Segundo tiempo
+37,Duelo ARG,175;175,Segundo tiempo
+47,Pase ARG,109;287 38;341,Segundo tiempo
+27,Recepción ARG,34;338,Segundo tiempo
+38,Duelo ARG,88;303,Segundo tiempo
+48,Pase ARG,116;314 143;345,Segundo tiempo
+28,Recepción ARG,143;348,Segundo tiempo
+54,Sin posesión,,Segundo tiempo
+13,Saque de arco CRC,43;306,Segundo tiempo
+11,Intercepción ARG,146;168,Segundo tiempo
+15,Posesión ofensiva CRC,,Segundo tiempo
+55,Sin posesión,,Segundo tiempo
+16,Duelo CRC,116;297,Segundo tiempo
+23,Recuperación ARG,62;106,Segundo tiempo
+29,Posesión defensiva ARG,,Segundo tiempo
+16,Posesión ofensiva CRC,,Segundo tiempo
+39,Duelo ARG,14;142,Segundo tiempo
+16,Recuperación CRC,16;144,Segundo tiempo
+56,Sin posesión,,Segundo tiempo
+1,Ataque CRC,184;295 13;429,Segundo tiempo
+7,Saque de arco ARG,124;360,Segundo tiempo
+12,Intercepción CRC,67;75,Segundo tiempo
+24,Recuperación ARG,109;310,Segundo tiempo
+46,Posesión ofensiva ARG,,Segundo tiempo
+57,Sin posesión,,Segundo tiempo
+17,Recuperación CRC,137;25,Segundo tiempo
+23,Ataque ARG,89;341,Segundo tiempo
+14,Saque de arco CRC,28;293,Segundo tiempo
+8,Saque de arco ARG,194;179,Segundo tiempo
+25,Recuperación ARG,193;291,Segundo tiempo
+47,Posesión ofensiva ARG,,Segundo tiempo
+49,Pase ARG,184;289 45;343,Segundo tiempo
+29,Recepción ARG,49;336,Segundo tiempo
+58,Sin posesión,,Segundo tiempo
+24,Ataque ARG,57;343 62;444,Segundo tiempo
+9,Córner ARG,,Segundo tiempo
+48,Posesión ofensiva ARG,,Segundo tiempo
+50,Pase ARG,6;349 6;385,Segundo tiempo
+30,Recepción ARG,5;381,Segundo tiempo
+59,Sin posesión,,Segundo tiempo
+40,Duelo ARG,15;381,Segundo tiempo
+18,Recuperación CRC,194;23,Segundo tiempo
+10,Córner ARG,,Segundo tiempo
+49,Posesión ofensiva ARG,,Segundo tiempo
+31,Recepción ARG,6;381,Segundo tiempo
+51,Pase ARG,6;352 4;384,Segundo tiempo
+52,Pase ARG,4;385 5;337,Segundo tiempo
+32,Recepción ARG,6;339,Segundo tiempo
+60,Sin posesión,,Segundo tiempo
+41,Duelo ARG,6;320,Segundo tiempo
+19,Recuperación CRC,194;67,Segundo tiempo
+18,Posesión defensiva CRC,,Segundo tiempo
+17,Duelo CRC,193;44,Segundo tiempo
+61,Sin posesión,,Segundo tiempo
+18,Duelo CRC,116;123,Segundo tiempo
+26,Recuperación ARG,145;275,Segundo tiempo
+50,Posesión ofensiva ARG,,Segundo tiempo
+42,Duelo ARG,146;321,Segundo tiempo
+62,Sin posesión,,Segundo tiempo
+25,Ataque ARG,124;326 146;428,Segundo tiempo
+5,Control sin oposición CRC,6;34,Segundo tiempo
+19,Posesión defensiva CRC,,Segundo tiempo
+51,Posesión ofensiva ARG,,Segundo tiempo
+19,Duelo CRC,7;111,Segundo tiempo
+43,Duelo ARG,196;270,Segundo tiempo
+20,Recuperación CRC,4;148,Segundo tiempo
+63,Sin posesión,,Segundo tiempo
+27,Recuperación ARG,193;170,Segundo tiempo
+30,Posesión defensiva ARG,,Segundo tiempo
+52,Posesión ofensiva ARG,,Segundo tiempo
+53,Pase ARG,96;220 48;336,Segundo tiempo
+33,Recepción ARG,49;325,Segundo tiempo
+64,Sin posesión,,Segundo tiempo
+26,Ataque ARG,49;350 70;478,Segundo tiempo
+15,Saque de arco CRC,85;289,Segundo tiempo
+54,Pase ARG,92;153 4;344,Segundo tiempo
+12,Intercepción ARG,109;115,Segundo tiempo
+53,Posesión ofensiva ARG,,Segundo tiempo
+34,Recepción ARG,6;330,Segundo tiempo
+55,Pase ARG,7;332 115;333,Segundo tiempo
+35,Recepción ARG,128;323,Segundo tiempo
+44,Duelo ARG,95;330,Segundo tiempo
+65,Sin posesión,,Segundo tiempo
+45,Duelo ARG,70;389,Segundo tiempo
+11,Córner ARG,,Segundo tiempo
+54,Posesión ofensiva ARG,,Segundo tiempo
+56,Pase ARG,6;365 5;376,Segundo tiempo
+36,Recepción ARG,6;376,Segundo tiempo
+20,Posesión defensiva CRC,,Segundo tiempo
+46,Duelo ARG,62;330,Segundo tiempo
+21,Recuperación CRC,163;54,Segundo tiempo
+18,Pase CRC,179;48 4;315,Segundo tiempo
+17,Posesión ofensiva CRC,,Segundo tiempo
+66,Sin posesión,,Segundo tiempo
+11,Recepción CRC,6;323,Segundo tiempo
+9,Saque de arco ARG,6;179,Segundo tiempo
+31,Posesión defensiva ARG,,Segundo tiempo
+21,Posesión defensiva CRC,,Segundo tiempo
+47,Duelo ARG,10;192,Segundo tiempo
+22,Recuperación CRC,193;207,Segundo tiempo
+67,Sin posesión,,Segundo tiempo
+20,Duelo CRC,143;105,Segundo tiempo
+28,Recuperación ARG,59;296,Segundo tiempo
+27,Ataque ARG,56;367,Segundo tiempo
+16,Saque de arco CRC,,Segundo tiempo
+18,Posesión ofensiva CRC,,Segundo tiempo
+55,Posesión ofensiva ARG,,Segundo tiempo
+21,Duelo CRC,193;225,Segundo tiempo
+29,Recuperación ARG,6;157,Segundo tiempo
+68,Sin posesión,,Segundo tiempo
+1,Falta ARG,6;233,Segundo tiempo
+1,Tiro libre CRC,177;175,Segundo tiempo
+22,Posesión defensiva CRC,,Segundo tiempo
+22,Duelo CRC,102;174,Segundo tiempo
+30,Recuperación ARG,81;221,Segundo tiempo
+56,Posesión ofensiva ARG,,Segundo tiempo
+57,Pase ARG,194;273 194;254,Segundo tiempo
+37,Recepción ARG,194;248,Segundo tiempo
+58,Pase ARG,193;242 194;331,Segundo tiempo
+38,Recepción ARG,194;333,Segundo tiempo
+59,Pase ARG,178;293 65;320,Segundo tiempo
+39,Recepción ARG,66;323,Segundo tiempo
+48,Duelo ARG,75;321,Segundo tiempo
+69,Sin posesión,,Segundo tiempo
+28,Ataque ARG,82;325 70;426,Segundo tiempo
+31,Recuperación ARG,100;363,Segundo tiempo
+29,Ataque ARG,96;361 99;445,Segundo tiempo
+17,Saque de arco CRC,75;329,Segundo tiempo
+10,Saque de arco ARG,134;312,Segundo tiempo
+13,Intercepción CRC,67;127,Segundo tiempo
+32,Recuperación ARG,194;346,Segundo tiempo
+57,Posesión ofensiva ARG,,Segundo tiempo
+49,Duelo ARG,194;352,Segundo tiempo
+70,Sin posesión,,Segundo tiempo
+30,Ataque ARG,146;397 136;428,Segundo tiempo
+6,Control sin oposición CRC,24;54,Segundo tiempo
+23,Posesión defensiva CRC,,Segundo tiempo
+19,Pase CRC,35;66 194;213,Segundo tiempo
+71,Sin posesión,,Segundo tiempo
+15,Control sin oposición ARG,11;177,Segundo tiempo
+32,Posesión defensiva ARG,,Segundo tiempo
+60,Pase ARG,143;157 193;256,Segundo tiempo
+40,Recepción ARG,189;251,Segundo tiempo
+72,Sin posesión,,Segundo tiempo
+50,Duelo ARG,149;324,Segundo tiempo
+23,Recuperación CRC,66;75,Segundo tiempo
+7,Control sin oposición CRC,72;64,Segundo tiempo
+24,Posesión defensiva CRC,,Segundo tiempo
+23,Duelo CRC,162;205,Segundo tiempo
+20,Pase CRC,99;247 8;298,Segundo tiempo
+12,Recepción CRC,8;322,Segundo tiempo
+73,Sin posesión,,Segundo tiempo
+16,Control sin oposición ARG,8;25,Segundo tiempo
+33,Posesión defensiva ARG,,Segundo tiempo
+61,Pase ARG,51;48 7;217,Segundo tiempo
+41,Recepción ARG,126;295,Segundo tiempo
+51,Duelo ARG,64;285,Segundo tiempo
+52,Duelo ARG,104;295,Segundo tiempo
+74,Sin posesión,,Segundo tiempo
+2,Pérdida no forzada ARG,194;330,Segundo tiempo
+2,Entra ARG,,Segundo tiempo
+2,Sale ARG,,Segundo tiempo
+18,Saque de arco CRC,6;345,Segundo tiempo
+13,Intercepción ARG,167;155,Segundo tiempo
+34,Posesión defensiva ARG,,Segundo tiempo
+62,Pase ARG,78;182 78;373,Segundo tiempo
+58,Posesión ofensiva ARG,,Segundo tiempo
+42,Recepción ARG,82;376,Segundo tiempo
+75,Sin posesión,,Segundo tiempo
+31,Ataque ARG,84;378,Segundo tiempo
+19,Saque de arco CRC,8;294,Segundo tiempo
+11,Saque de arco ARG,193;270,Segundo tiempo
+59,Posesión ofensiva ARG,,Segundo tiempo
+53,Duelo ARG,197;343,Segundo tiempo
+63,Pase ARG,194;351 72;372,Segundo tiempo
+14,Intercepción CRC,77;40,Segundo tiempo
+76,Sin posesión,,Segundo tiempo
+20,Saque de arco CRC,194;345,Segundo tiempo
+19,Posesión ofensiva CRC,,Segundo tiempo
+35,Posesión defensiva ARG,,Segundo tiempo
+33,Recuperación ARG,16;17,Segundo tiempo
+77,Sin posesión,,Segundo tiempo
+64,Pase ARG,16;10 79;10,Segundo tiempo
+65,Pase ARG,82;13 6;290,Segundo tiempo
+60,Posesión ofensiva ARG,,Segundo tiempo
+43,Recepción ARG,6;291,Segundo tiempo
+78,Sin posesión,,Segundo tiempo
+32,Ataque ARG,65;333,Segundo tiempo
+34,Recuperación ARG,194;359,Segundo tiempo
+61,Posesión ofensiva ARG,,Segundo tiempo
+79,Sin posesión,,Segundo tiempo
+54,Duelo ARG,149;338,Segundo tiempo
+24,Recuperación CRC,61;58,Segundo tiempo
+35,Recuperación ARG,194;343,Segundo tiempo
+62,Posesión ofensiva ARG,,Segundo tiempo
+66,Pase ARG,192;332 186;274,Segundo tiempo
+36,Posesión defensiva ARG,,Segundo tiempo
+44,Recepción ARG,114;368,Segundo tiempo
+67,Pase ARG,194;180 101;354,Segundo tiempo
+15,Intercepción CRC,95;58,Segundo tiempo
+80,Sin posesión,,Segundo tiempo
+36,Recuperación ARG,112;360,Segundo tiempo
+63,Posesión ofensiva ARG,,Segundo tiempo
+81,Sin posesión,,Segundo tiempo
+33,Ataque ARG,117;372 15;426,Segundo tiempo
+21,Saque de arco CRC,194;316,Segundo tiempo
+14,Intercepción ARG,6;123,Segundo tiempo
+37,Posesión defensiva ARG,,Segundo tiempo
+82,Sin posesión,,Segundo tiempo
+3,Pérdida no forzada ARG,41;192,Segundo tiempo
+37,Recuperación ARG,6;153,Segundo tiempo
+38,Posesión defensiva ARG,,Segundo tiempo
+68,Pase ARG,6;187 24;304,Segundo tiempo
+45,Recepción ARG,56;316,Segundo tiempo
+83,Sin posesión,,Segundo tiempo
+55,Duelo ARG,66;313,Segundo tiempo
+25,Recuperación CRC,155;73,Segundo tiempo
+8,Control sin oposición CRC,4;95,Segundo tiempo
+25,Posesión defensiva CRC,,Segundo tiempo
+21,Pase CRC,8;107 6;83,Segundo tiempo
+13,Recepción CRC,5;73,Segundo tiempo
+22,Pase CRC,7;79 197;221,Segundo tiempo
+39,Posesión defensiva ARG,,Segundo tiempo
+15,Intercepción ARG,17;130,Segundo tiempo
+69,Pase ARG,8;177 7;262,Segundo tiempo
+46,Recepción ARG,6;266,Segundo tiempo
+70,Pase ARG,6;254 194;291,Segundo tiempo
+47,Recepción ARG,192;299,Segundo tiempo
+71,Pase ARG,194;314 194;253,Segundo tiempo
+48,Recepción ARG,194;244,Segundo tiempo
+72,Pase ARG,194;258 5;303,Segundo tiempo
+49,Recepción ARG,24;345,Segundo tiempo
+56,Duelo ARG,66;316,Segundo tiempo
+84,Sin posesión,,Segundo tiempo
+34,Ataque ARG,82;325 141;428,Segundo tiempo
+3,Entra CRC,,Segundo tiempo
+3,Sale CRC,,Segundo tiempo
+5,Saque del medio CRC,,Segundo tiempo
+20,Posesión ofensiva CRC,,Segundo tiempo
+23,Pase CRC,8;269 5;209,Segundo tiempo
+14,Recepción CRC,18;207,Segundo tiempo
+64,Posesión ofensiva ARG,,Segundo tiempo
+38,Recuperación ARG,194;208,Segundo tiempo
+73,Pase ARG,196;204 194;174,Segundo tiempo
+50,Recepción ARG,194;179,Segundo tiempo
+74,Pase ARG,177;173 78;373,Segundo tiempo
+85,Sin posesión,,Segundo tiempo
+22,Saque de arco CRC,190;341,Segundo tiempo
+12,Saque de arco ARG,8;135,Segundo tiempo
+40,Posesión defensiva ARG,,Segundo tiempo
+75,Pase ARG,75;174 192;308,Segundo tiempo
+16,Intercepción CRC,7;103,Segundo tiempo
+51,Recepción ARG,193;301,Segundo tiempo
+76,Pase ARG,194;286 194;225,Segundo tiempo
+52,Recepción ARG,192;219,Segundo tiempo
+57,Duelo ARG,172;236,Segundo tiempo
+86,Sin posesión,,Segundo tiempo
+58,Duelo ARG,142;330,Segundo tiempo
+35,Ataque ARG,143;345 121;430,Segundo tiempo
+23,Saque de arco CRC,194;322,Segundo tiempo
+13,Saque de arco ARG,5;295,Segundo tiempo
+65,Posesión ofensiva ARG,,Segundo tiempo
+87,Sin posesión,,Segundo tiempo
+26,Posesión defensiva CRC,,Segundo tiempo
+59,Duelo ARG,49;316,Segundo tiempo
+26,Recuperación CRC,150;76,Segundo tiempo
+88,Sin posesión,,Segundo tiempo
+41,Posesión defensiva ARG,,Segundo tiempo
+39,Recuperación ARG,59;193,Segundo tiempo
+24,Duelo CRC,194;191,Segundo tiempo
+77,Pase ARG,194;177 194;221,Segundo tiempo
+89,Sin posesión,,Segundo tiempo
+53,Recepción ARG,192;217,Segundo tiempo
+27,Posesión defensiva CRC,,Segundo tiempo
+27,Recuperación CRC,14;194,Segundo tiempo
+25,Duelo CRC,25;180,Segundo tiempo
+21,Posesión ofensiva CRC,,Segundo tiempo
+26,Duelo CRC,118;292,Segundo tiempo
+27,Duelo CRC,167;371,Segundo tiempo
+40,Recuperación ARG,26;30,Segundo tiempo
+90,Sin posesión,,Segundo tiempo
+2,Córner CRC,,Segundo tiempo
+22,Posesión ofensiva CRC,,Segundo tiempo
+91,Sin posesión,,Segundo tiempo
+2,Ataque CRC,189;392 62;428,Segundo tiempo
+14,Saque de arco ARG,6;316,Segundo tiempo
+66,Posesión ofensiva ARG,,Segundo tiempo
+78,Pase ARG,11;293 118;226,Segundo tiempo
+92,Sin posesión,,Segundo tiempo
+17,Control sin oposición ARG,146;181,Segundo tiempo
+42,Posesión defensiva ARG,,Segundo tiempo
+79,Pase ARG,98;174 8;216,Segundo tiempo
+93,Sin posesión,,Segundo tiempo
+41,Recuperación ARG,100;268,Segundo tiempo
+67,Posesión ofensiva ARG,,Segundo tiempo
+80,Pase ARG,21;275 138;290,Segundo tiempo
+54,Recepción ARG,192;286,Segundo tiempo
+60,Duelo ARG,192;290,Segundo tiempo
+94,Sin posesión,,Segundo tiempo
+61,Duelo ARG,149;339,Segundo tiempo
+28,Recuperación CRC,62;64,Segundo tiempo
+2,Bote a tierra,,Segundo tiempo
+24,Saque de arco CRC,194;308,Segundo tiempo
+16,Intercepción ARG,6;84,Segundo tiempo
+43,Posesión defensiva ARG,,Segundo tiempo
+81,Pase ARG,153;175 196;235,Segundo tiempo
+68,Posesión ofensiva ARG,,Segundo tiempo
+55,Recepción ARG,179;302,Segundo tiempo
+95,Sin posesión,,Segundo tiempo
+36,Ataque ARG,131;352 125;428,Segundo tiempo
+25,Saque de arco CRC,194;278,Segundo tiempo
+23,Posesión ofensiva CRC,,Segundo tiempo
+24,Pase CRC,194;269 177;202,Segundo tiempo
+28,Posesión defensiva CRC,83;14 43;269 7;262 196;232 99;13 150;225 5;30 6;25 57;0 7;27 97;30 97;11 166;57 165;78 197;139 6;164 8;115 6;352 4;384 194;273 194;254 8;107 6;83 194;314 194;253 194;286 194;225 93;228 194;322 196;316 196;254,Segundo tiempo
+28,Duelo CRC,77;287,Segundo tiempo
+44,Posesión defensiva ARG,,Segundo tiempo
+29,Duelo CRC,109;325,Segundo tiempo
+42,Recuperación ARG,129;66,Segundo tiempo
+96,Sin posesión,,Segundo tiempo
+62,Duelo ARG,105;116,Segundo tiempo
+29,Recuperación CRC,98;286,Segundo tiempo
+18,Control sin oposición ARG,5;210,Segundo tiempo
+45,Posesión defensiva ARG,,Segundo tiempo
+69,Posesión ofensiva ARG,,Segundo tiempo
+82,Pase ARG,8;194 196;259,Segundo tiempo
+56,Recepción ARG,194;265,Segundo tiempo
+97,Sin posesión,,Segundo tiempo
+30,Recuperación CRC,5;132,Segundo tiempo
+5,Despeje CRC,39;85,Segundo tiempo
+19,Control sin oposición ARG,6;304,Segundo tiempo
+70,Posesión ofensiva ARG,,Segundo tiempo
+83,Pase ARG,6;300 5;231,Segundo tiempo
+57,Recepción ARG,8;226,Segundo tiempo
+98,Sin posesión,,Segundo tiempo
+37,Ataque ARG,101;268,Segundo tiempo
+26,Saque de arco CRC,194;290,Segundo tiempo
+17,Intercepción ARG,38;89,Segundo tiempo
+46,Posesión defensiva ARG,,Segundo tiempo
+71,Posesión ofensiva ARG,,Segundo tiempo
+84,Pase ARG,20;209 5;307,Segundo tiempo
+99,Sin posesión,,Segundo tiempo
+17,Intercepción CRC,157;61,Segundo tiempo
+20,Control sin oposición ARG,76;262,Segundo tiempo
+72,Posesión ofensiva ARG,,Segundo tiempo
+85,Pase ARG,93;228 194;322,Segundo tiempo
+58,Recepción ARG,193;328,Segundo tiempo
+86,Pase ARG,196;316 196;254,Segundo tiempo
+59,Recepción ARG,193;248,Segundo tiempo
+47,Posesión defensiva ARG,,Segundo tiempo
+73,Posesión ofensiva ARG,,Segundo tiempo
+87,Pase ARG,110;207 62;370,Segundo tiempo
+60,Recepción ARG,58;368,Segundo tiempo
+100,Sin posesión,,Segundo tiempo
+38,Ataque ARG,66;368 88;427,Segundo tiempo
+43,Recuperación ARG,78;332,Segundo tiempo
+39,Ataque ARG,145;376 72;436,Segundo tiempo
+9,Control sin oposición CRC,177;40,Segundo tiempo
+29,Posesión defensiva CRC,,Segundo tiempo
+30,Duelo CRC,196;51,Segundo tiempo
+31,Duelo CRC,196;110,Segundo tiempo
+74,Posesión ofensiva ARG,,Segundo tiempo
+44,Recuperación ARG,6;299,Segundo tiempo
+101,Sin posesión,,Segundo tiempo
+40,Ataque ARG,75;330 114;456,Segundo tiempo
+15,Recepción CRC,,Segundo tiempo
+12,Córner ARG,,Segundo tiempo
+75,Posesión ofensiva ARG,,Segundo tiempo
+88,Pase ARG,194;369 81;363,Segundo tiempo
+18,Intercepción CRC,99;41,Segundo tiempo
+61,Recepción ARG,58;338,Segundo tiempo
+89,Pase ARG,4;305 4;264,Segundo tiempo
+62,Recepción ARG,9;266,Segundo tiempo
+63,Duelo ARG,45;265,Segundo tiempo
