@@ -1,4 +1,4 @@
-# Blind Football Pitch Generator
+# Blind Football Pitch
 
 This script generates a tactical representation of a blind football pitch using the Matplotlib library. It was inspired by the [mpl.soccer](https://mplsoccer.readthedocs.io/en/latest/) library.
 
