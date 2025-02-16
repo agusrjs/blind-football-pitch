@@ -60,7 +60,7 @@ class BFpitch:
 
                 # Centre Line, Circle, Spot
                 self.ax.plot([20, 20], [0, 20], color="black")
-                centre_circle = Circle((20, 10), 6, color="black", fill=False)
+                centre_circle = Circle((20, 10), 5, color="black", fill=False)
                 centre_spot = Circle((20, 10), 0.12, color="black")
                 self.ax.add_patch(centre_circle)
                 self.ax.add_patch(centre_spot)
@@ -117,7 +117,7 @@ class BFpitch:
                 self.ax.plot([8, 8], [0, 20], color="black", linestyle="--", dashes=(5, 15))
 
                 # Centre Circle, Spot
-                centre_circle = Arc((0, 10), height=12, width=12, angle=270, theta1=0, theta2=180, color="black")
+                centre_circle = Arc((0, 10), height=10, width=10, angle=270, theta1=0, theta2=180, color="black")
                 centre_spot = Circle((0, 10), 0.12, color="black")
                 self.ax.add_patch(centre_circle)
                 self.ax.add_patch(centre_spot)
@@ -161,7 +161,7 @@ class BFpitch:
 
                     # Centre Line, Circle, Spot
                     self.ax.plot([0, 20], [20, 20], color="black")
-                    centre_circle = Circle((10, 20), 6, color="black", fill=False)
+                    centre_circle = Circle((10, 20), 5, color="black", fill=False)
                     centre_spot = Circle((10, 20), 0.12, color="black")
                     self.ax.add_patch(centre_circle)
                     self.ax.add_patch(centre_spot)
@@ -218,7 +218,7 @@ class BFpitch:
                     self.ax.plot([0, 20], [8, 8], color="black", linestyle="--", dashes=(5, 15))
                     
                     # Centre Circle, Spot
-                    centre_circle = Arc((10, 0), height=12, width=12, angle=0, theta1=0, theta2=180, color="black")
+                    centre_circle = Arc((10, 0), height=10, width=10, angle=0, theta1=0, theta2=180, color="black")
                     centre_spot = Circle((10, 0), 0.12, color="black")
                     self.ax.add_patch(centre_circle)
                     self.ax.add_patch(centre_spot)
